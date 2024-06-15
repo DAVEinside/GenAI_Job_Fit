@@ -1,0 +1,12 @@
+langchain
+langchain_openai 
+langsmith 
+pandas 
+langchain_experimental 
+matplotlib 
+langgraph 
+langchain_core
+pyPDF2
+python-docx
+streamlit
+python-dotenv
