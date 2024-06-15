@@ -22,15 +22,15 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/DAVEinside/Job_Fit_AI.git
-   cd Job_Fit_AI
+   git clone https://github.com/DAVEinside/GenAI_Job_Fit.git
+   cd GenAI_Job_Fit
 
 ### Install Dependencies:
 pip install -r requirements.txt
 
 ### Running the Application
 To run the application, use Streamlit:
-streamlit run streamlit_app.py
+streamlit run app.py
 
 ### Usage
 Upload Your Resume: Upload your resume in PDF format.
